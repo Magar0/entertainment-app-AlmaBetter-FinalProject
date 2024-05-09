@@ -1,4 +1,4 @@
-# `Entertainment App using MERN stack`
+# `Entertainment App using MERN stack` (Frontend)
 
 ## Table of contents
 * [General info](#general-info)
