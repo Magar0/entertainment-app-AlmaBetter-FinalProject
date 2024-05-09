@@ -23,11 +23,12 @@ Backend Live Link:   https://entertainment-backend.vercel.app/
 * MERN stack
 * React JS
 * Redux Toolkit, React Router.
+* Node JS., Express JS.
 * Firebase
-
+* Mongo DB.
 	
 ## Setup
-1. Set up environment variables:
+1. Set up environment variables (Front-end):
    - Create a `.env` file in the root directory.
    - Add the following variables to the `.env` file, replacing the placeholder values with your actual credentials:
      ```
