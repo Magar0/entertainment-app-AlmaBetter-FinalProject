@@ -6,7 +6,9 @@
 * [Setup](#setup)
 
 FrontEnd Live URL:   https://entertainment--webapp.vercel.app/
+
 Backend Github link: https://github.com/cypher1ravi/entertainment-backend
+
 Backend Live Link:   https://entertainment-backend.vercel.app/
 
 ## General info
